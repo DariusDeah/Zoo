@@ -1,0 +1,6 @@
+#tabElem img {
+  height: 30rem;
+  width: 30rem;
+  display: flex;
+  flex-direction: row;
+}
